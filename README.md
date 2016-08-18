@@ -1,2 +1,2 @@
-# asm-calcularor
+# asm-calculate
 basic calculator written in assembey
